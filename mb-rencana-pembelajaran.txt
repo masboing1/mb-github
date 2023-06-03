@@ -1,0 +1,6 @@
+Rencna pembelajaran mb
+- dasar html
+- dasar php
+- dasar javascript
+- git dan github
+- laravel
