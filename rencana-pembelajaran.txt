@@ -10,3 +10,5 @@ Rencna pembelajaran mb
 - framework laravel
   > installasi dan konfigurasi
   > struktur folder route, view
+- python
+  #1 mengenal python, installasi, cara kerja pyhton, dan variable data
