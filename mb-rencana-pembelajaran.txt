@@ -5,6 +5,7 @@ Rencna pembelajaran mb
 - dasar javascript
 - git dan github
   #3 branch (membuat brand, merge, dan menyelesaikan konflik jika ada)
+  #4 fork / forking
 - framework laravel
   > installasi dan konfigurasi
   > struktur folder route, view
