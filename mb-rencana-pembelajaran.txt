@@ -1,4 +1,5 @@
 Rencna pembelajaran mb
+- installasi dan konfigurasi vscode for php
 - dasar html
 - dasar php
 - struktur data dasar
