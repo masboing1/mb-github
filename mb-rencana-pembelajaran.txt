@@ -1,0 +1,8 @@
+Rencna pembelajaran mb
+- dasar html
+- dasar php
+- dasar javascript
+- git dan github
+- framework laravel
+  > installasi dan konfigurasi
+  > struktur folder route, view
