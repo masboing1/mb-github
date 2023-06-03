@@ -4,6 +4,7 @@ Rencna pembelajaran mb
 - struktur data dasar
 - dasar javascript
 - git dan github
+  #3 branch (membuat brand, merge, dan menyelesaikan konflik jika ada)
 - framework laravel
   > installasi dan konfigurasi
   > struktur folder route, view
