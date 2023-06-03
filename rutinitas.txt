@@ -1,4 +1,5 @@
-Repositori rencana masboing / degho kedepannya
+Rutinitas belajar harian
 - belajarang koding tiap hari setiap pagi dan malam
 - catatan materi yang sudah dipelajari
 - bekerja dengan github 
+- github (pengenalan, registrasi, branch, fork)
