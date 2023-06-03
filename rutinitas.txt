@@ -3,3 +3,4 @@ Rutinitas belajar harian
 - catatan materi yang sudah dipelajari
 - bekerja dengan github 
 - github (pengenalan, registrasi, branch, fork)
+- mengenal python dan belajar dasar python
