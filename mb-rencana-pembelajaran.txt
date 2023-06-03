@@ -1,6 +1,7 @@
 Rencna pembelajaran mb
 - dasar html
 - dasar php
+- struktur data dasar
 - dasar javascript
 - git dan github
 - framework laravel
