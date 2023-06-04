@@ -7,3 +7,4 @@ Rutinitas belajar harian
 - mengenal variable python
 - casting / merubah type data python
 - input data dari user
+- operasi aritmatika
