@@ -8,8 +8,9 @@ Rencna pembelajaran mb
   #3 branch (membuat brand, merge, dan menyelesaikan konflik jika ada)
   #4 fork / forking
 - framework laravel
-  > installasi dan konfigurasi
-  > struktur folder route, view
+  #2 installasi dan konfigurasi
+  #3 struktur folder route, view
+  #4 blade templating
 - python,  https://github.com/kelasterbuka
   #1 mengenal python, installasi, cara kerja pyhton, dan variable data
   #5 type data python
