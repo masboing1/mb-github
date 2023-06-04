@@ -8,3 +8,4 @@ Rutinitas belajar harian
 - casting / merubah type data python
 - input data dari user
 - operasi aritmatika
+- laravel 8 - blade templating
