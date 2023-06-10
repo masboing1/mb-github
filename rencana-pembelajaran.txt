@@ -11,6 +11,8 @@ Rencna pembelajaran mb
   #2 installasi dan konfigurasi
   #3 struktur folder route, view
   #4 blade templating
+  #5 model collection controller
+  #6 database migration dan eloquent
 - python,  https://github.com/kelasterbuka
   #1 mengenal python, installasi, cara kerja pyhton, dan variable data
   #5 type data python
