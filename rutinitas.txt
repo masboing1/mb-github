@@ -9,3 +9,5 @@ Rutinitas belajar harian
 - input data dari user
 - operasi aritmatika
 - laravel 8 - blade templating
+- laravel 8 - #5 model collection controller
+- laravel 6 - $6 database migration dan eloquent
